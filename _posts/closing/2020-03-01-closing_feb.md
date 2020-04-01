@@ -1,6 +1,6 @@
 ---
 title: 2020년 2월 결산
-date: 2020-02-01
+date: 2020-03-01
 category: closing
 tags: UBER AAPL FB DIS T JNJ
 ---
